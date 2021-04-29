@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CodingTestVirtusa</string>
+    <string name="label_fetch_user_data">Fetch User Data</string>
+</resources>
